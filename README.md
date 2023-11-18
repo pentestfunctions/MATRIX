@@ -55,7 +55,7 @@ Clone this repository:
 7. Changing Directory to Project Folder
 Change directory into the project folder:
     ```bash
-    cd M.A.T.R.I.X
+    cd MATRIX
     ```
 
 8. Installing RustScan (version 2.0.1)
