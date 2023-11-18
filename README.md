@@ -49,7 +49,7 @@ Install Kali Linux (Headless):
 6. Cloning the Repository
 Clone this repository:
     ```bash
-    git clone https://github.com/HFScripts/M.A.T.R.I.X.git
+    git clone https://github.com/pentestfunctions/MATRIX.git
     ```
 
 7. Changing Directory to Project Folder
